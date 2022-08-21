@@ -8,13 +8,14 @@
    What is Virtual Hycraft?
 </h2>
 
+Virtual Hycraft is a tool that improves your gameplay on Hycraft! It comes packed with many
+features that make your life easier, including a stats mod, and fps booster (kind of) and more.
+
+<br>
 <details>
   <summary>Fork Information</summary>
   <p>Virtual Hycraft is just a fork of Virtual-Hypixel-v4 (https://github.com/HumanDuck23/virtual-hypixel-v4) with the server changed to support Hycraft instead of Hypixel, all of the code credit goes to the creator of Virtual Hypixel, Sphaget aka HumanDuck23. Some modifications have been made for Hycraft Support, but 99% of the code is by him or based from his code. So please check out and star his repository if you use this <3</p>
 </details>
-
-Virtual Hycraft is a tool that improves your gameplay on Hycraft! It comes packed with many
-features that make your life easier, including a stats mod, and fps booster (kind of) and more.
 
 <h2 align="center" style="font-family: 'Oxanium', cursive;">
    Features
