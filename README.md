@@ -5,10 +5,15 @@
 <link href="https://fonts.googleapis.com/css2?family=Oxanium&display=swap" rel="stylesheet">
 
 <h2 align="center" style="font-family: 'Oxanium', cursive;">
-   What is Virtual Hypixel?
+   What is Virtual Hycraft?
 </h2>
 
-Virtual Hypixel is a tool that improves your gameplay on Hypixel! It comes packed with many
+<details>
+  <summary>Fork Information</summary>
+  <p>Virtual Hycraft is just a fork of Virtual-Hypixel-v4 (https://github.com/HumanDuck23/virtual-hypixel-v4) with the server changed to support Hycraft instead of Hypixel, all of the code credit goes to the creator of Virtual Hypixel, Sphaget aka HumanDuck23. Some modifications have been made for Hycraft Support, but 99% of the code is by him or based from his code. So please check out and star his repository if you use this <3</p>
+</details>
+
+Virtual Hycraft is a tool that improves your gameplay on Hycraft! It comes packed with many
 features that make your life easier, including a stats mod, and fps booster (kind of) and more.
 
 <h2 align="center" style="font-family: 'Oxanium', cursive;">
@@ -17,12 +22,12 @@ features that make your life easier, including a stats mod, and fps booster (kin
 
 <details>
   <summary>Pre-Game Stats</summary>
-  <p>Virtual Hypixel shows the stats of your opponents before the game starts (including duels, after the update).</p>
+  <p>Virtual Hycraft shows the stats of your opponents before the game starts (including duels, after the update).</p>
 </details>
 <br>
 <details>
   <summary>AutoGG</summary>
-  <p>With most proxies like this AutoGG and other Hypixel mods don't work, so Virtual Hypixel implements its own AutoGG.</p>
+  <p>With most proxies like this AutoGG and other Hycraft mods don't work, so Virtual Hycraft implements its own AutoGG.</p>
 </details>
 <br>
 <details>
@@ -32,32 +37,22 @@ features that make your life easier, including a stats mod, and fps booster (kin
 <br>
 <details>
   <summary>Custom Commands</summary>
-  <p>Virtual Hypixel implements a few custom commands, such as the <code>/sc</code> command for stat checking and <code>/rq</code> to quickly requeue your current (or last) game.</p>
+  <p>Virtual Hycraft implements a few custom commands, such as the <code>/sc</code> command for stat checking and <code>/rq</code> to quickly requeue your current (or last) game.</p>
 </details>
 <br>
 <details>
   <summary><code>/play</code> Protection</summary>
-  <p>Have you ever accidentally run <code>/play</code> while in game? Virtual Hypixel will ask you to confirm the command to avoid leaving the game.</p>
+  <p>Have you ever accidentally run <code>/play</code> while in game? Virtual Hycraft will ask you to confirm the command to avoid leaving the game.</p>
 </details>
 <br>
 <details>
   <summary>Basic FPS Boost</summary>
-  <p>The FPS Boosting module can filter out a few things sent by Hypixel to improve FPS.</p>
-</details>
-<br>
-<details>
-  <summary>Packet Filter (Lunar Enable)</summary>
-  <p>The Packet Filter removes certain packets to enable disabled mods such as Freelook and Autotext.</p>
-</details>
-<br>
-<details>
-  <summary>Stream Commands</summary>
-  <p>Virtual Hypixel lets you have a /stream ban (/ssb) command to easily get stream rule breakers off your stream parties!</p>
+  <p>The FPS Boosting module can filter out a few things sent by Hycraft to improve FPS.</p>
 </details>
 <br>
 <details>
   <summary>Settings (WIP)</summary>
-  <p>Virtual Hypixel allows you to change settings in-game with a nice and simple settings window.</p>
+  <p>Virtual Hycraft allows you to change settings in-game with a nice and simple settings window.</p>
 </details>
 
 
