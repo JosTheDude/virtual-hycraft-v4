@@ -99,7 +99,7 @@ export class VirtualHypixel {
             },
             clientOptions: {
                 version: "1.8.9",
-                host: "hypixel.net"
+                host: "mc.hycraft.us"
             }
         })
 
