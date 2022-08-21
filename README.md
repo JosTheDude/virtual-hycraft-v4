@@ -58,26 +58,29 @@ features that make your life easier, including a stats mod, and fps booster (kin
 
 
 <h2 align="center" style="font-family: 'Oxanium', cursive;">
-   How do I use it?
+   How do I use it and set it up?
 </h2>
 
 Since there is no release yet, you'll have to do a lot of the work yourself to get this running. Here are the steps:
 
-*You'll need to have [NodeJS](https://nodejs.org) and [TypeScript](https://www.typescriptlang.org/)
+*You'll need to have [NodeJS](https://nodejs.org/) and [TypeScript](https://www.typescriptlang.org/download)
 installed.*
 
+**Make sure you have NodeJS and TypeScript installed, links are above**
 1. Download this repo as a ZIP
-2. Extract the ZIP
-3. Open CMD in the folder you extracted it to
-4. Install the dependencies by typing `npm i`
-5. Fill out the config file in `src/config.yaml`
-6. Rename `config.yaml` to `config_priv.yaml`
+2. Extract the ZIP file you just downloaded
+3. Open CMD (click Search in your task bar and then type "cmd") and use the command below to change directories into the folder you extracted it to
+   a. `cd (your folder location, ex. C:\Users\jos\Downloads\virtual-hycraft-v4-master\virtual-hycraft-v4-master`
+4. Once your in the directory, install the dependencies by running the command `npm i`
+5. Fill out the config file (config.yaml) in the installation directory's src folder (ex. `src/config.yaml`)
+6. Rename `config.yaml` to `config_priv.yaml` once you're finished filling it out
 7. Create a file in src: `app.ts`
-8. Paste this code in there:
+  a. Make sure to open this file in Notepad once it's made, ignore the file extension warning, just make the file extension is .ts and the name is app (app.ts)
+8. Paste this code in the file whilst in notepad, then save:
     ```ts
    import { VirtualHypixel } from "./proxy/classes/VirtualHypixel"
     const vh = new VirtualHypixel("./config_priv.yaml")
     vh.start()
     ```
-9. Compile all the TypeScript code by typing `tsc` in CMD
+9. Compile all the TypeScript code by typing `tsc` or `npx tsc` in CMD (run the other command if one does not work)
 10. Run `app.js` with `node app.js`
